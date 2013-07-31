@@ -1,10 +1,10 @@
-SciPy 2013 Tutorial - NumPy and IPython
-=======================================
+EuroSciPy 2013 Tutorial - NumPy and IPython
+===========================================
 
 Description
 -----------
 
-Introductory slides for my SciPy 2013 tutorial on NumPy and IPython.
+Introductory slides for my EuroSciPy 2013 tutorial on NumPy and IPython.
 
 Dependencies
 ------------

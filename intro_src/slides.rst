@@ -79,12 +79,12 @@ The Scientific Python Ecosystem
 About this Tutorial
 -------------------
 
-* **Ipython** (1 hour)
+* **Ipython** (45 Min)
 
   * Using the IPython notebook
   * Help system, magic functions, aliases and history
 
-* **Numpy** (3 hours)
+* **Numpy** (2:45 Hours)
 
   * Basic arrays, dtypes and numerical operations
   * Indexing, slicing, reshaping and broadcasting
@@ -107,7 +107,7 @@ About the Material
   * An IPython notebook demonstrating the IPython notebook
   * A demo session of the IPython shell
 
-* **Numpy** (3 hours)
+* **Numpy**
 
   * Two IPython notebooks
   * (Semi-)Automatically converted from `Python Scientific Lecture Notes <http://scipy-lectures.github.io/>`_

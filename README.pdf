@@ -193,12 +193,12 @@ endobj
 % 'R15': class PDFInfo 
 15 0 obj
 << /Author ()
- /CreationDate (D:20130622221919-01'00')
+ /CreationDate (D:20130731154445-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
- /Title (SciPy 2013 Tutorial - NumPy and IPython) >>
+ /Title (EuroSciPy 2013 Tutorial - NumPy and IPython) >>
 endobj
 % 'R16': class PDFOutlines 
 16 0 obj
@@ -239,20 +239,20 @@ endobj
 % 'R20': class PDFStream 
 20 0 obj
 % page stream
-<< /Length 5511 >>
+<< /Length 5519 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 741.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 39.88488 0 Td (SciPy 2013 Tutorial - NumPy and IPython) Tj T* -39.88488 0 Td ET
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 17.10488 0 Td (EuroSciPy 2013 Tutorial - NumPy and IPython) Tj T* -17.10488 0 Td ET
 Q
 Q
 q
 1 0 0 1 62.69291 719.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Materials repository for my SciPy 2013 tutorial on NumPy and IPython.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Materials repository for my EuroSciPy 2013 tutorial on NumPy and IPython.) Tj T* ET
 Q
 Q
 q
@@ -566,21 +566,21 @@ xref
 0000002675 00000 n
 0000003035 00000 n
 0000003194 00000 n
-0000003481 00000 n
-0000003606 00000 n
-0000003775 00000 n
-0000003927 00000 n
-0000004035 00000 n
-0000009649 00000 n
-0000009742 00000 n
+0000003485 00000 n
+0000003610 00000 n
+0000003779 00000 n
+0000003931 00000 n
+0000004039 00000 n
+0000009661 00000 n
+0000009754 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\032\367^\353\202\225\304\364e\037\004\002\313\214\244\230) (\032\367^\353\202\225\304\364e\037\004\002\313\214\244\230)] 
+ [(\310\314f;\227&\213\276%\225\366!\252\343b\276) (\310\314f;\227&\213\276%\225\366!\252\343b\276)] 
 
  /Info 15 0 R
  /Root 14 0 R
  /Size 23 >>
 startxref
-9789
+9801
 %%EOF

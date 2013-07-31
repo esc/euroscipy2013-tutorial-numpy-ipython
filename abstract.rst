@@ -1,9 +1,9 @@
-SciPy2013 tutorial on NumPy and IPython
-=======================================
+EuroSciPy2013 tutorial on NumPy and IPython
+===========================================
 
 :Tutorial Title: An Introduction to IPython and Numpy
 :Track:          Introduction Scientific Python Basics (Numpy and IPython)
-:Link:           https://conference.scipy.org/scipy2013/tutorial_detail.php?id=100
+:Link:           https://www.euroscipy.org/schedule/presentation/69/
 :Author:         Valentin Haenel
 :Contact Email:  valentin@haenel.co
 :Version:        1.3
