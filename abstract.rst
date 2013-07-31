@@ -69,4 +69,4 @@ SciPy2013 tutorial on NumPy and IPython
                  `euroscipy2013-tutorial-numpy-ipython Gitub repository
                  <https://github.com/esc/euroscipy2013-tutorial-numpy-ipython>`_ at 
                  https://github.com/esc/euroscipy2013-tutorial-numpy-ipython or
-                 http://git.io/bocNDg.
+                 http://git.io/0zq7dw.

@@ -4,10 +4,10 @@ Introduction
 Materials
 ---------
 
-* GitHub Repository: http://git.io/bocNDg
+* GitHub Repository: http://git.io/0zq7dw
 
 
-* Materials ZipFile: http://git.io/G5i5qA
+* Materials ZipFile: http://git.io/chxjqQ
 
 
 .. raw:: latex
