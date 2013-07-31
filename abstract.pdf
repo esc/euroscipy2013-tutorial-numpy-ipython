@@ -278,7 +278,7 @@ endobj
 21 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://github.com/esc/scipy2013-tutorial-numpy-ipython) >>
+ /URI (https://github.com/esc/euroscipy2013-tutorial-numpy-ipython) >>
  /Border [ 0
  0
  0 ]
@@ -293,13 +293,13 @@ endobj
 22 0 obj
 << /A << /S /URI
  /Type /Action
- /URI (https://github.com/esc/scipy2013-tutorial-numpy-ipython) >>
+ /URI (https://github.com/esc/euroscipy2013-tutorial-numpy-ipython) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 153.7323
  137.7736
- 403.8323
+ 423.8423
  149.7736 ]
  /Subtype /Link
  /Type /Annot >>
@@ -312,9 +312,9 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 415.5023
+ /Rect [ 435.5123
  137.7736
- 500.5423
+ 520.5523
  149.7736 ]
  /Subtype /Link
  /Type /Annot >>
@@ -369,7 +369,7 @@ endobj
 % 'R26': class PDFInfo 
 26 0 obj
 << /Author (Valentin Haenel)
- /CreationDate (D:20130621175547-01'00')
+ /CreationDate (D:20130731153612-01'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -386,7 +386,7 @@ endobj
 % 'R28': class PDFStream 
 28 0 obj
 % page stream
-<< /Length 9623 >>
+<< /Length 9631 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -854,7 +854,7 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 50 Tm 2.60003 Tw 12 TL /F1 10 Tf 0 0 0 rg (I have converted a large part of the ) Tj 0 0 .501961 rg (Numpy chaper ) Tj 0 0 0 rg (from the ) Tj 0 0 .501961 rg (Python Scientific) Tj T* 0 Tw 2.43671 Tw (Lecture Notes ) Tj 0 0 0 rg (to IPython notebook format using the ) Tj /F3 10 Tf (sphinx2ipynb ) Tj /F1 10 Tf (converter) Tj T* 0 Tw 12.28227 Tw (from the ) Tj 0 0 .501961 rg (nbconvert project) Tj 0 0 0 rg (. All materials are collected in my) Tj T* 0 Tw 47.03346 Tw 0 0 .501961 rg (scipy2013-tutorial-numpy-ipython Gitub repository ) Tj 0 0 0 rg (at) Tj T* 0 Tw 0 0 .501961 rg (https://github.com/esc/scipy2013-tutorial-numpy-ipython ) Tj 0 0 0 rg (or ) Tj 0 0 .501961 rg (http://git.io/bocNDg) Tj 0 0 0 rg (.) Tj T* ET
+BT 1 0 0 1 0 50 Tm 2.60003 Tw 12 TL /F1 10 Tf 0 0 0 rg (I have converted a large part of the ) Tj 0 0 .501961 rg (Numpy chaper ) Tj 0 0 0 rg (from the ) Tj 0 0 .501961 rg (Python Scientific) Tj T* 0 Tw 2.43671 Tw (Lecture Notes ) Tj 0 0 0 rg (to IPython notebook format using the ) Tj /F3 10 Tf (sphinx2ipynb ) Tj /F1 10 Tf (converter) Tj T* 0 Tw 12.28227 Tw (from the ) Tj 0 0 .501961 rg (nbconvert project) Tj 0 0 0 rg (. All materials are collected in my) Tj T* 0 Tw 40.36346 Tw 0 0 .501961 rg (euroscipy2013-tutorial-numpy-ipython Gitub repository ) Tj 0 0 0 rg (at) Tj T* 0 Tw 0 0 .501961 rg (https://github.com/esc/euroscipy2013-tutorial-numpy-ipython ) Tj 0 0 0 rg (or ) Tj 0 0 .501961 rg (http://git.io/bocNDg) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
@@ -904,24 +904,24 @@ xref
 0000004316 00000 n
 0000004569 00000 n
 0000004825 00000 n
-0000005100 00000 n
-0000005375 00000 n
-0000005600 00000 n
-0000006058 00000 n
-0000006217 00000 n
-0000006516 00000 n
-0000006624 00000 n
-0000016348 00000 n
-0000016431 00000 n
-0000016524 00000 n
+0000005104 00000 n
+0000005383 00000 n
+0000005608 00000 n
+0000006066 00000 n
+0000006225 00000 n
+0000006524 00000 n
+0000006632 00000 n
+0000016364 00000 n
+0000016447 00000 n
+0000016540 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(=\206\275\314q\036\372\217\000\032\200"\025\364\363\215) (=\206\275\314q\036\372\217\000\032\200"\025\364\363\215)] 
+ [(ZU\036G\235\224\326'\370w\010 $\236o\216) (ZU\036G\235\224\326'\370w\010 $\236o\216)] 
 
  /Info 26 0 R
  /Root 25 0 R
  /Size 32 >>
 startxref
-16571
+16587
 %%EOF

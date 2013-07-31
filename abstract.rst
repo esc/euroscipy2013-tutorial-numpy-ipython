@@ -66,7 +66,7 @@ SciPy2013 tutorial on NumPy and IPython
                  format using the ``sphinx2ipynb`` converter from the
                  `nbconvert project <https://github.com/ipython/nbconvert>`_.
                  All materials are collected in my
-                 `scipy2013-tutorial-numpy-ipython Gitub repository
-                 <https://github.com/esc/scipy2013-tutorial-numpy-ipython>`_ at 
-                 https://github.com/esc/scipy2013-tutorial-numpy-ipython or
+                 `euroscipy2013-tutorial-numpy-ipython Gitub repository
+                 <https://github.com/esc/euroscipy2013-tutorial-numpy-ipython>`_ at 
+                 https://github.com/esc/euroscipy2013-tutorial-numpy-ipython or
                  http://git.io/bocNDg.
