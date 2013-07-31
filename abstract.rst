@@ -38,12 +38,12 @@ EuroSciPy2013 tutorial on NumPy and IPython
                  should have some basic familiarity with Python (variables,
                  loops, functions) and basic command-line usage (executing
                  commands, using history).
-:Outline:        **Ipython** (1 hour)
+:Outline:        **Ipython** (45 Min)
 
                  * Using the IPython notebook
                  * Help system, magic functions, aliases and history
 
-                 **Numpy** (3 hours)
+                 **Numpy** (2.15 hours)
 
                  * Basic arrays, dtypes and numerical operations
                  * Indexing, slicing, reshaping and broadcasting

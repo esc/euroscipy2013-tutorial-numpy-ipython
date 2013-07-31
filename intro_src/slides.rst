@@ -84,7 +84,7 @@ About this Tutorial
   * Using the IPython notebook
   * Help system, magic functions, aliases and history
 
-* **Numpy** (2:45 Hours)
+* **Numpy** (2:15 Hours)
 
   * Basic arrays, dtypes and numerical operations
   * Indexing, slicing, reshaping and broadcasting
